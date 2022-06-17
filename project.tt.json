@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "yjdp-h5-taro",
+  "description": "照明页面h5",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

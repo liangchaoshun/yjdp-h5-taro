@@ -1,0 +1,118 @@
+.home-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #edf0f2;
+
+  .swiper {
+    height: 750px;
+    .banner-item {
+      height: 100%;
+      image {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+
+  .home-section {
+    flex: 1;
+    display: grid;
+    /* grid-template-rows: repeat(auto-fill, 540px); */
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+
+    .goods {
+      overflow: hidden;
+      border-radius: 8px;
+      background-color: #fff;
+      box-sizing: border-box;
+      border: 1px solid rgba(158, 158, 158, 0.4);
+
+      .goods-img {
+        position: relative;
+        height: 0;
+        /* 使其高度动态随宽度变化 */
+        /* 一个元素的 padding，如果值是一个百分比，那这个百分比是相对于其父元素的宽度而言的，padding-top 也是如此 */
+        padding-top: 100%;
+        :global(.hydrated) {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          image {
+            // position: absolute;
+            // left: 0;
+            // top: 0;
+            width: 100%;
+            height: 100%;
+          }
+        }
+      }
+      .goods-content {
+        padding: 20px;
+      }
+      .goods-desc {
+        display: -webkit-box;
+        height: 80px;
+        margin-bottom: 20px;
+        font-size: 28px;
+        color: #423f3f;
+        line-height: 40px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+      }
+
+      .goods-price-area {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        line-height: 40px;
+        .currency {
+          font-size: 24px;
+          color: #fa2c19;
+          vertical-align: bottom;
+        }
+        .price-txt {
+          font-size: 32px;
+          color: #fa2c19;
+          vertical-align: bottom;
+        }
+      }
+    }
+  }
+  .loading-mask {
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    :global(.at-icon-loading-3) {
+      font-size: 80px;
+      color: #353535;
+      position: absolute;
+      top: 20%;
+      left: 45%;
+      transform: translate(-45%, -20%);
+      animation: loadingRotate 1.5s linear infinite;
+    }
+    // background: rgba(0, 0, 0, 0.1);
+  }
+}
+
+@keyframes loadingRotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,24 @@
+.container {
+  height: 100%;
+  overflow-y: scroll;
+  padding: 0.42667rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background-color: #edf0f2;
+
+  .title {
+    font-size: 42px;
+    margin-bottom: 20px;
+  }
+  .communication {
+    font-size: 32px;
+    margin-bottom: 10px;
+    .soft {
+      color: #333;
+      margin-right: 20px;
+    }
+    .account {
+      color: #10aeff;
+    }
+  }
+}

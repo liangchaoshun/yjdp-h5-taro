@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="348px" height="348px" viewBox="0 0 348 348" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>该商品已失效</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="92.1298574%" id="linearGradient-1">
+            <stop stop-color="#FFE0E1" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.37581355%" y1="66.6176907%" x2="112.094045%" y2="22.4666908%" id="linearGradient-2">
+            <stop stop-color="#FBB1B3" offset="0.0184755068%"></stop>
+            <stop stop-color="#FCDCDC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="34.7139032%" x2="100%" y2="34.7139032%" id="linearGradient-3">
+            <stop stop-color="#FFB2B5" offset="0.0184755068%"></stop>
+            <stop stop-color="#FFCCCD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.5652976%" y1="45.9289612%" x2="73.0360423%" y2="58.2280171%" id="linearGradient-4">
+            <stop stop-color="#DA3136" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DA3136" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-2.8%" y="-7.0%" width="105.7%" height="114.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="66.3637703%" y1="27.5737228%" x2="26.1766779%" y2="77.8807621%" id="linearGradient-6">
+            <stop stop-color="#FF9DA0" offset="0.0184755068%"></stop>
+            <stop stop-color="#FFC8C9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="36.2870974%" y1="61.2372783%" x2="59.1408008%" y2="30.7594993%" id="linearGradient-7">
+            <stop stop-color="#FBA8AB" offset="0%"></stop>
+            <stop stop-color="#EF6569" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-3.9%" y="-6.9%" width="107.8%" height="113.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="68.4414644%" y1="0%" x2="35.9130704%" y2="96.2345237%" id="linearGradient-9">
+            <stop stop-color="#FFA1A4" offset="0%"></stop>
+            <stop stop-color="#FFEFF0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="91.1719208%" x2="50%" y2="8.16431795%" id="linearGradient-10">
+            <stop stop-color="#FFC2C4" offset="0.0184755068%"></stop>
+            <stop stop-color="#FFEFEF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="77.3304067%" y1="58.8650503%" x2="59.1051597%" y2="17.7976901%" id="linearGradient-11">
+            <stop stop-color="#FBA8AB" offset="0%"></stop>
+            <stop stop-color="#EF6569" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-4.3%" y="-6.3%" width="108.7%" height="112.5%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="45.3349029%" y1="58.2841713%" x2="57.0170833%" y2="37.9032006%" id="linearGradient-13">
+            <stop stop-color="#FCAFB2" offset="0.0184755068%"></stop>
+            <stop stop-color="#FFDADB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="7.10542736e-13%" id="linearGradient-14">
+            <stop stop-color="#FFC0C2" offset="0.0184755068%"></stop>
+            <stop stop-color="#FFEFEF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="48.1581644%" x2="50.4695579%" y2="51.8418356%" id="linearGradient-15">
+            <stop stop-color="#FFE4E5" offset="0%"></stop>
+            <stop stop-color="#FFF0F1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="24.8509891%" y1="55.4623352%" x2="96.5466621%" y2="43.5845848%" id="linearGradient-16">
+            <stop stop-color="#FFC2C4" offset="0.0184755068%"></stop>
+            <stop stop-color="#FFE4E5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.68165075%" y1="83.6958265%" x2="26.1299949%" y2="65.2850565%" id="linearGradient-17">
+            <stop stop-color="#FFA2A5" offset="0%"></stop>
+            <stop stop-color="#FFC2C4" offset="99.9815245%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.68165075%" y1="71.6996861%" x2="97.2052151%" y2="25.9835295%" id="linearGradient-18">
+            <stop stop-color="#FFA9AB" offset="0.0184755068%"></stop>
+            <stop stop-color="#FFCCCE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="97.2779382%" y1="4.89371124%" x2="45.460842%" y2="95.1952842%" id="linearGradient-19">
+            <stop stop-color="#FFC2C4" offset="0.0184755068%"></stop>
+            <stop stop-color="#FFDCDD" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-3.4%" y="-5.3%" width="106.7%" height="110.5%" filterUnits="objectBoundingBox" id="filter-20">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-2.9%" y="-4.5%" width="105.8%" height="109.0%" filterUnits="objectBoundingBox" id="filter-21">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="-3.1%" width="100.0%" height="106.1%" filterUnits="objectBoundingBox" id="filter-22">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="一见鲜_缺省页" transform="translate(-201.000000, -6014.000000)">
+            <g id="该商品已失效" transform="translate(201.000000, 6014.000000)">
+                <rect id="矩形备份-20" fill="#FFFFFF" opacity="0" x="0" y="0" width="348" height="348"></rect>
+                <g transform="translate(0.000000, 83.000000)" id="编组备份-4">
+                    <g transform="translate(0.000000, 0.500000)">
+                        <path d="M348,208.5 C348,161.279654 270.097546,123 174,123 C77.9024535,123 0,161.279654 0,208.5 C0,255.720346 348,255.720346 348,208.5 Z" id="椭圆形备份" fill="url(#linearGradient-1)"></path>
+                        <g id="树" opacity="0.8" transform="translate(28.000000, 120.500000)">
+                            <g id="树1">
+                                <line x1="15.5" y1="37.625" x2="15.5" y2="56.375" id="直线" stroke="#FCAEB0" stroke-width="4" stroke-linecap="round"></line>
+                                <path d="M14.9944839,0 C3.62375849,11.9375359 -1.2799189,21.0162125 0.283451695,27.2360296 C2.62850759,36.5657553 11.9609773,38 14.2676596,38 C16.5743418,38 30,38.1771222 30,25.7417656 C30,17.4515279 24.9981613,8.87093935 14.9944839,0 Z" id="路径-15" fill="#FFD2D4" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="树2" transform="translate(255.000000, 7.000000)">
+                                <line x1="10.5" y1="26.4375" x2="10.5" y2="39.5625" id="直线" stroke="#FCAEB0" stroke-width="3" stroke-linecap="round"></line>
+                                <path d="M10.4961387,0 C2.53663095,8.48193342 -0.895943231,14.932572 0.198416187,19.3519158 C1.83995531,25.9809314 8.37268411,27 9.98736169,27 C11.6020393,27 21,27.12585 21,18.2902019 C21,12.3997698 17.4987129,6.30303586 10.4961387,0 Z" id="路径-15" fill="#FFD9DB" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="树3" transform="translate(290.000000, 32.000000)">
+                                <line x1="7.5" y1="19.34375" x2="7.5" y2="29.65625" id="直线" stroke="#FCAEB0" stroke-width="3" stroke-linecap="round"></line>
+                                <path d="M7.99705807,0 C1.9326712,6.28291365 -0.682623414,11.0611645 0.151174238,14.3347524 C1.40187071,19.2451344 6.3791879,20 7.60941843,20 C8.83964897,20 16,20.0932222 16,13.5482977 C16,9.18501468 13.3323527,4.66891545 7.99705807,0 Z" id="路径-15" fill="#FFD9DB" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                        <polygon id="矩形" fill="url(#linearGradient-2)" fill-rule="nonzero" points="100 71.4668249 167 59.5 167 127.5 100 127.5"></polygon>
+                        <polygon id="矩形" fill="url(#linearGradient-3)" fill-rule="nonzero" points="167 59.5 248 70.4539402 248 132.5 167 132.5"></polygon>
+                        <polygon id="矩形" fill="url(#linearGradient-4)" filter="url(#filter-5)" points="47 122.5 99.837487 122.5 153 165.5 100.7792 163.527583"></polygon>
+                        <polygon id="矩形" fill="url(#linearGradient-6)" fill-rule="nonzero" points="100 71.4539402 178 87.8349067 178 184.45394 100 163.614658"></polygon>
+                        <polygon id="矩形" fill="url(#linearGradient-7)" filter="url(#filter-8)" points="101 88 178 88 170.25906 131.403636 101 113.480575"></polygon>
+                        <path d="M203.14789,37.5 C184.895369,49.4664695 176.19474,59.2002943 177.046004,66.7014744 C178.322899,77.9532446 188.905348,74.219099 190.068498,70.4602867 C191.231647,66.7014744 188.245909,61.5057562 181.45565,65.5 C174.665392,69.4942438 167.790149,86.4843946 166.14789,93.5" id="路径-19" stroke="url(#linearGradient-9)" stroke-width="2" stroke-dasharray="4,3"></path>
+                        <polygon id="矩形" fill="url(#linearGradient-10)" fill-rule="nonzero" points="178 87.9054806 248 70.4539402 248 161.364575 178 184.45394"></polygon>
+                        <polygon id="矩形" fill="url(#linearGradient-11)" filter="url(#filter-12)" points="178 88 247 88 247 112.797157 184.398828 135.970732"></polygon>
+                        <polygon id="矩形" fill="url(#linearGradient-13)" fill-rule="nonzero" points="100 71.4539402 178 87.9054806 162.493096 123.5 84 103.259479"></polygon>
+                        <polygon id="矩形" fill="url(#linearGradient-14)" fill-rule="nonzero" points="178 87.9054806 248 70.4539402 262.951484 101.864178 196.245911 123.5"></polygon>
+                        <polyline id="路径-2" stroke="#FFDFE0" points="178 87.9054806 196.245911 123.5 262.951484 101.864178"></polyline>
+                        <polyline id="路径-12" stroke="#FFECED" opacity="0.603585379" points="178 87.9054806 162.493096 123.5 84 103.259479"></polyline>
+                        <polygon id="路径-13" stroke="url(#linearGradient-15)" stroke-linejoin="round" points="178 87.9054806 248 70.4539402 167 59.5 100 71.4539402"></polygon>
+                        <g id="飞机" transform="translate(193.000000, 0.500000)">
+                            <polygon id="路径-16备份" fill="url(#linearGradient-16)" fill-rule="nonzero" points="59 3.53495011e-13 0 11.1774963 15 21.1338877"></polygon>
+                            <polygon id="路径-16备份-2" fill="url(#linearGradient-17)" fill-rule="nonzero" points="59 0 15 21.1338877 15 38"></polygon>
+                            <polygon id="路径-16备份-2" fill="url(#linearGradient-18)" fill-rule="nonzero" points="59 3.37507799e-14 15 21.1338877 23.6969299 30.4945526"></polygon>
+                            <polygon id="路径-16备份" fill="url(#linearGradient-19)" fill-rule="nonzero" points="59 0 21.3206307 25.3837764 39.4224992 37"></polygon>
+                            <line x1="15" y1="21.1338877" x2="0.181509023" y2="11.6350533" id="路径-16" stroke="#FFE2E2" stroke-linecap="round" filter="url(#filter-20)"></line>
+                            <line x1="21.6091569" y1="25.745105" x2="38.9510697" y2="36.8585346" id="路径-17" stroke="#FFECEC" stroke-linecap="round" filter="url(#filter-21)"></line>
+                            <line x1="15" y1="21.1338877" x2="15" y2="37.4954947" id="路径-18" stroke="#FFE2E2" stroke-linecap="round" filter="url(#filter-22)"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
