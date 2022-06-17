@@ -9,7 +9,7 @@ const config = {
     828: 1.81 / 2
   },
   sourceRoot: 'src',
-  outputRoot: 'dist',
+  outputRoot: 'yjdph5',
   plugins: [],
   defineConstants: {},
   copy: {
