@@ -108,7 +108,8 @@ const Home = () => {
               <View className={styles['goods-price-area']}>
                 <View>
                   <Text className={styles.currency}>￥</Text>
-                  <Text className={styles['price-txt']}>{item.price}</Text>
+                  <Text className={styles.price}>{item.price}</Text>
+                  <Text className={styles.unit}>(RMB)</Text>
                 </View>
               </View>
             </View>
