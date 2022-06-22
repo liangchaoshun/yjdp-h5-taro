@@ -5,7 +5,6 @@ export default {
     'pages/contact/contact',
     'pages/detail/detail',
     'pages/series-list/series-list'
-    //"pages/index/index"
   ],
   window: {
     backgroundTextStyle: 'light',

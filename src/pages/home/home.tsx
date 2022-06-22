@@ -5,7 +5,6 @@ import { fetchHomeGoods, fetchHomeBanner } from '@/api/home'
 import Taro, { usePullDownRefresh, useReachBottom } from '@tarojs/taro'
 import styles from './home.module.scss'
 import 'taro-ui/dist/style/components/icon.scss'
-import 'taro-ui/dist/style/components/button.scss' // 按需引入
 // import 'taro-ui/dist/style/index.scss' // 全量引入
 const Home = () => {
   const [bannerList, setBannerList] = useState([])

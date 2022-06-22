@@ -1,6 +1,5 @@
 dist/
-yjdph5/
-yjdph5*.zip
+yjdph5*
 deploy_versions/
 .temp/
 .rn_temp/
