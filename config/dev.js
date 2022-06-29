@@ -11,7 +11,7 @@ module.exports = {
         '/api': {
           // url 会自动补全：`${target}/api`
           target: 'http://localhost:7717/wx/yjdp', // 本地服务
-          // target: 'https://liangchaoshun.top/cms/yjdp', // 线上服务-无需端口
+          // target: 'https://liangchaoshun.top/wx/yjdp', // 线上服务-无需端口
           secure: false,
           changeOrigin: true
         }
