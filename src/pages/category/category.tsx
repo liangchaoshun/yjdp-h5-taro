@@ -68,7 +68,7 @@ const Category = () => {
             className={classNames(styles['menu-item'], {
               [styles['menu-item-active']]: index === currIndex
             })}
-            key={item.category_id}
+            key={item._id}
             onClick={() => tapMenuItem(index, item._id)}
           >
             {item.name_en}
