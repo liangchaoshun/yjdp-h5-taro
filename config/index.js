@@ -42,7 +42,7 @@ const config = {
     }
   },
   h5: {
-    publicPath: '/',
+    publicPath: './',
     staticDirectory: 'assets',
     postcss: {
       autoprefixer: {
